@@ -1,5 +1,5 @@
-import phonenumbers
-from phonenumbers import geocoder
+from phonenumbers import phonenumbers
+import geocoder
 from phonenumbers import carrier
 import pycountry
 from phonenumbers.phonenumberutil import region_code_for_country_code
